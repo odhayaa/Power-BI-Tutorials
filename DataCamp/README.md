@@ -65,3 +65,18 @@ This file was made for the next two parts of the last section, continuing from t
 6-4-2-Data-Transform.pbix
 
 This file was made for the last part of the section, which uses everything I learned in the section as well as in the rest of the course to calculate Z scores for the prices of products within each product category. 
+
+7-1-Data-Modeling.pbix
+
+This file contains a map showing the average number of employees for all 2017 NAICS codes for four U.S. states for a fictional manufacturing company. In addition, there is a slicer for the 2017 NAICS codes. This file marks the start of a new course on Data Modeling, and the first section involved loading, cleaning, categorizing, and reformatting the data to make the map visual.
+
+7-2-Data-Modeling.pbix
+
+This file has two pages. The first page has a bar chart with the number of employees categorized by how many years the establishment they are working in has existed. The second page has a column chart which shows the sum of the first quarter payroll of the employees by the thousands categorized by the high range percentage of the total annual payroll for each employee. The section of the course for this file involved splitting the dataset into two tables, appending three csv files into one table, and extracting text from the columns to make the graphs.
+
+
+
+
+
+
+
