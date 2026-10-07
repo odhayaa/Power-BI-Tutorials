@@ -56,5 +56,12 @@ This file was made for the section of the course on Combining Data, which involv
 
 6-3-Data-Transform.pbix
 
-This file was made for the section of the course on creating custom columns and custom conditionals.
+This file was made for the section of the course on creating custom columns and custom conditionals. It was also used for part of the next section, which involved calculating stock deviation using the M language in the Advanced Editor.
 
+6-4-1-Data-Transform.pbix
+
+This file was made for the next two parts of the last section, continuing from the previous file. It involved renaming the query steps as well as adding comments, variables, and custom functions using the M language in the Advanced Editor.
+
+6-4-2-Data-Transform.pbix
+
+This file was made for the last part of the section, which uses everything I learned in the section as well as in the rest of the course to calculate Z scores for the prices of products within each product category. 
