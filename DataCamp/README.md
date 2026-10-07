@@ -74,6 +74,13 @@ This file contains a map showing the average number of employees for all 2017 NA
 
 This file has two pages. The first page has a bar chart with the number of employees categorized by how many years the establishment they are working in has existed. The second page has a column chart which shows the sum of the first quarter payroll of the employees by the thousands categorized by the high range percentage of the total annual payroll for each employee. The section of the course for this file involved splitting the dataset into two tables, appending three csv files into one table, and extracting text from the columns to make the graphs.
 
+7-3-Data-Modeling.pbix
+
+This report has a bar chart showing the average number of employees by subsector with a slicer for each decade. The section of the course for this file involved splitting the Establishment Survey table to create a dimension table called Industry, importing Time and Age dimension tables, and creating relationships between each dimension table and the Establishment Survey table, which is the fact table. The result was a star schema, which is a common data model.
+
+
+
+
 
 
 
