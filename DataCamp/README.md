@@ -36,7 +36,7 @@ This report contains nothing because the section of the course I was working on 
 
 5-2-2-Data-Prep.pbix
 
-These two files also contain nothing for the same reason as 5-1-Data-Prep.pbix, but they involved using the Data Preview features in the Power Query Editor.
+These two files also contain nothing for the same reason as 5-1-Data-Prep.pbix, but the section of the course I was working on involved using the column distribution, quality, and profile features in the Power Query Editor.
 
 
 
