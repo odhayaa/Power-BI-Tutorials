@@ -18,3 +18,9 @@ The Order Details page is the same as the previous file. The Product Comparison 
 
 This report contains a line chart showing revenue, cost, and profit of goods over time as well as a line and column chart with profit by month and year and the average profit margin over time. It also has a slicer for product category.
 
+3-4-shares_and_kpis.pbix
+
+This report contains everything from the three previous files. In addition, in the Revenue and Profit page, a Tornado map comparing Revenue vs Cost was added, which also can be used as a filter for product category. The product category slicer has been replaced with a year slicer. The Shares page contains a pie chart for order quantity for local stores by product size, a tree map for order quantity with a hierarchy for retailer channel and product size in that order, cards showing the number of order above and below the target profit margin, and a gauge showing the percentage of the average profit margin vs the target profit margin. In addition, there are page filters for the order date and product category set to 2020 and Tees, respectively.
+
+
+
