@@ -76,7 +76,9 @@ This file has two pages. The first page has a bar chart with the number of emplo
 
 7-3-Data-Modeling.pbix
 
-This report has a bar chart showing the average number of employees by subsector with a slicer for each decade. The section of the course for this file involved splitting the Establishment Survey table to create a dimension table called Industry, importing Time and Age dimension tables, and creating relationships between each dimension table and the Establishment Survey table, which is the fact table. The result was a star schema, which is a common data model.
+This file is for the last two sections of the course. The Number of Employees page has a bar chart with the average number of employees by subsector with two slicers for the decade and establishment age. The Industry Insights page has a table with the sector, subsector, industry group, and NAICS code description as columns. The Comparison page has two line charts that are identical except for the schemas used to make them. The first of these sections involved making a star schema by splitting the Establishment Survey fact table, creating an Industry dimension table from the split, adding the Time and Age dimension tables, and connecting the tables in the Model view. The second of these sections involved making a snowflake schema by splitting the Industry table into four smaller tables with the above columns listed along with the corresponding code columns and connecting them in a hierarchy to the fact table. I then ran the performance analyzer in the Comparison table to see which schema loaded the data faster.
+
+
 
 
 
