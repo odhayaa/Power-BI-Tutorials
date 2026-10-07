@@ -9,3 +9,7 @@ This report is the same, but with some additional changes. The line chart is spl
 3-1-table_scatter_bubble.pbix
 
 This report contains a table, a scatter plot, a bubble chart, and slicers for a fictional clothing company.
+
+3-2-more_charts.pbix
+
+The Order Details page is the same as the previous file. The Product Comparison page has a clustered bar chart with gender and channel slicers, the Retailer Breakdown page has a stacked bar chart categorized by channel on the y-axis and product category on the x-axis, and the Franchise Purchases page has a 4x3 grid of bar charts of order quantity separated by product color with each individual chart categorized by gender.   
