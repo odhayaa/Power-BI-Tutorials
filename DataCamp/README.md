@@ -26,5 +26,12 @@ This report contains everything from the three previous files. In addition, in t
 
 4-Case-Study.pbix
 
-This is a case study I made for a fictional company called Databel to analyze why customers were churning.
+This is a case study I did for a fictional company called Databel to analyze why customers were churning.
+
+5-1-Data-Prep.pbix
+
+This report contains nothing because the section of the course I was working on involved using the Power Query Editor.
+
+
+
 
