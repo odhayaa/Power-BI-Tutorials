@@ -24,5 +24,7 @@ This report contains a line chart showing revenue, cost, and profit of goods ove
 
 This report contains everything from the three previous files. In addition, in the Revenue and Profit page, a Tornado map comparing Revenue vs Cost was added, which also can be used as a filter for product category. The product category slicer has been replaced with a year slicer. The Shares page contains a pie chart for order quantity for local stores by product size, a tree map for order quantity with a hierarchy for retailer channel and product size in that order, cards showing the number of order above and below the target profit margin, and a gauge showing the percentage of the average profit margin vs the target profit margin. In addition, there are page filters for the order date and product category set to 2020 and Tees, respectively. The KPI page has two KPIs. The first one shows the Total Orders vs Target by Month, colored red because the total orders per month failed to reach the target, which is bad. The second one shows the Total Returns vs Target by Month, colored green because the total returns per month is less than the target, which is good. Finally, conditional formatting was added to the bar chart in the Product Comparison page to differentiate the products that reached the ideal sales target from the products that didn't.
 
+4-Case-Study.pbix
 
+This is a case study I made for a fictional company called Databel to analyze why customers were churning.
 
