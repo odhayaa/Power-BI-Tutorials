@@ -36,7 +36,12 @@ This report contains nothing because the section of the course I was working on 
 
 5-2-2-Data-Prep.pbix
 
-These two files also contain nothing for the same reason as 5-1-Data-Prep.pbix, but the section of the course I was working on involved using the column distribution, quality, and profile features in the Power Query Editor.
+These two reports also contain nothing for the same reason as 5-1-Data-Prep.pbix, but the section of the course I was working on involved using the column distribution, quality, and profile features in the Power Query Editor.
 
+5-3-Data-Prep.pbix
 
+This file was made for the section of the course on Data Manipulation, which involved trimming, cleaning, merging, and splitting text columns as well as extracting length and adding prefixes in Power Query Editor.
 
+5-4-Data-Prep.pbix
+
+This file was made for the section of the course on Numerical Transformation, which involved applying mathematical operations to the numerical data as well as calculating the week of month and extracting the day of the week names from the date columns.
