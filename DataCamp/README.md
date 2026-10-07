@@ -44,4 +44,17 @@ This file was made for the section of the course on Data Manipulation, which inv
 
 5-4-Data-Prep.pbix
 
-This file was made for the section of the course on Numerical Transformation, which involved applying mathematical operations to the numerical data as well as calculating the week of month and extracting the day of the week names from the date columns.
+This file was made for the section of the course on Numerical Transformation, which involved applying mathematical operations to the numerical data as well as calculating the week of month and extracting the day of the week names from the date columns in the Power Query Editor.
+
+6-1-Data-Transform.pbix
+
+This file was made for a new course involving Data Transformation. The first section was about reshaping data with (un)pivoting, transposing, and aggregating in the Power Query Editor.
+
+6-2-Data-Transform.pbix
+
+This file was made for the section of the course on Combining Data, which involved appending and merging queries as well as reshaping the data in the Power Query Editor.
+
+6-3-Data-Transform.pbix
+
+This file was made for the section of the course on creating custom columns and custom conditionals.
+
