@@ -80,9 +80,9 @@ This file is for the last two sections of the course. The Number of Employees pa
 
 
 
+9-Case-Study.pbix
 
-
-
+This is a case study I did for a fictional company called Atlas Labs.
 
 
 
